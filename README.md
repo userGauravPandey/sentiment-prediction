@@ -1,6 +1,6 @@
 Predict the emotion behind any text using Logistic Regression and TF-IDF Vectorization.
 
- Live Demo: https://sentiment-prediction-g2nxtdhzmih5mzxtrwxqmg.streamlit.app
+ Live Demo: https://sentiment-prediction-g2rxtdhzrni5mxztrwxqmg.streamlit.app/
  GitHub Repo: https://github.com/GauravPandey/sentiment-prediction
 
 Features:
